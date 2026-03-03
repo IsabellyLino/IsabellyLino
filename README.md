@@ -49,8 +49,3 @@
 | :--- | :--- | :--- |
 | **🐍 Aprendizado em Python** | Anotações e códigos práticos. | <a href="https://www.notion.so/isabellylino/Estudos-de-Python-3184f15d4e5280ec86e4ef86612921bd?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Acessar%20no%20Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Estudos de Python"></a> |
 
-###
-
-<img src="https://raw.githubusercontent.com/IsabellyLino/IsabellyLino/output/snake.svg" alt="Snake animation" />
-
-###
