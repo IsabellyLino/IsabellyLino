@@ -27,7 +27,7 @@
 </div>
 
 ###
-
+----
 <h3 align="left">🛠️ Tecnologias e Ferramantas</h3>
 
 ###
